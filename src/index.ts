@@ -1,1 +1,1 @@
-console.log("Type Scropt node code.");
+console.log("Type Scropt node code..");
