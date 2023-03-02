@@ -1,0 +1,1 @@
+console.log("Type Scropt node code.");

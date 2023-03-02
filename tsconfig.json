@@ -13,7 +13,7 @@
 		// d.ts 파일을 생성시킵니다.
 		// "declaration": true,
 		"rootDir": "./src",
-		"outDir": "./dist",
+		"outDir": "./src-build",
 		"moduleResolution": "node",
 		// ----import 할 때, json 모듈 사용
 		// ----"resolveJsonModule": true,
